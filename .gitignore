@@ -7,10 +7,9 @@ __pycache__/
 venv/
 .env/
 
-# Data files
+# Data folders (large or regenerated)
 data/raw/
 data/processed/
-*.csv
 
 # Models
 models/*.joblib
